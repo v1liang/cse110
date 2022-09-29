@@ -1,5 +1,5 @@
 # Introduction: Vincent Liang
-![Picture of myself](https://ibb.co/4W39zpR)
+![Picture of myself](https://i.ibb.co/SNGWbBw/IMG-4197.jpg)
 ## As a person...
 
 ## As a programmer...
