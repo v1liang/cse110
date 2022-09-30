@@ -5,7 +5,7 @@ Hello! My name is Vincent and I am currently a 4th year from Marshall College an
 
 
 I was born and raised in **San Francisco, CA**.
-<img src="[drawing.jpg](https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/43390357_253966275268230_5905271204842037320_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=106&_nc_ohc=RvCzL9HePa4AX_e3J72&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MTkwNDk5MzkwNDAwNjM1Mjg2OA%3D%3D.2-ccb7-5&oh=00_AT-DXsk-_oss6om_xPem9603jKQ0QtxDbq-usSzd-1t8ew&oe=633DE075&_nc_sid=30a2ef)" alt="Me in San Francisco" width="200"/>
+<img src="[drawing.jpg](https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/43390357_253966275268230_5905271204842037320_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=106&_nc_ohc=RvCzL9HePa4AX_e3J72&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MTkwNDk5MzkwNDAwNjM1Mjg2OA%3D%3D.2-ccb7-5&oh=00_AT-DXsk-_oss6om_xPem9603jKQ0QtxDbq-usSzd-1t8ew&oe=633DE075&_nc_sid=30a2ef)" alt="Me in San Francisco" width="20"/>
 
 <!-- ![Me in San Francisco](https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/43390357_253966275268230_5905271204842037320_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=106&_nc_ohc=RvCzL9HePa4AX_e3J72&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MTkwNDk5MzkwNDAwNjM1Mjg2OA%3D%3D.2-ccb7-5&oh=00_AT-DXsk-_oss6om_xPem9603jKQ0QtxDbq-usSzd-1t8ew&oe=633DE075&_nc_sid=30a2ef) -->
 
