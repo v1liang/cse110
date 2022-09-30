@@ -41,6 +41,6 @@ I only have 2 classes left to take and I am currently thinking of taking
 I do not abide by the famous CSE department saying:
 > Start early, start often!
 
-I am a heavy procastinator, but I get things done in a timely manner. However, I recently completed a software engineering internship that developed a greater interest in my career as a software engineer. I have been leetcoding the [Blind 75](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links) to prepare for applying to jobs.
+I am a heavy procastinator, but I get things done in a timely manner. However, I recently completed a software engineering internship that developed a greater interest in my career as a software engineer. I have been leetcoding the [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) to prepare for applying to jobs.
 
 This is also one of my first few experiences using github so check out the README page I made for this class [README Page](README.md). That's all, thanks for reading!
