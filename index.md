@@ -1,6 +1,6 @@
 # Introduction
 ## As a person...
-![Picture of myself](https://i.ibb.co/SNGWbBw/IMG-4197.jpg = 50x50)
+![Picture of myself](https://i.ibb.co/SNGWbBw/IMG-4197.jpg =50x50)
 Hello! My name is Vincent and I am currently a 4th year from Marshall College and am majoring in Math-Computer Science. 
 
 
