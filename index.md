@@ -21,7 +21,7 @@ My favorite agents in Valorant are:
 
 I also like to play **volleyball** during my free time!
 
-![high school vball](https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/57606671_425474461603095_2247210508659190537_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=103&_nc_ohc=LcKDaajJ4_cAX9Cslre&edm=ALdeuSgBAAAA&ccb=7-5&oh=00_AT-lFMR8eAdUlzve2k0Zok5hZvKroCDjdNSXV8cdoNMFvA&oe=633DB72B&_nc_sid=d2677f)
+![high school vball](https://i.ibb.co/GPMRD7W/57606671-425474461603095-2247210508659190537-n.jpg)
 
 I am also a big fan of **boba** and I enjoy eating **good food**. My top foods are
 1. Poke
