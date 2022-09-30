@@ -6,7 +6,7 @@ Hello! My name is Vincent and I am currently a _4th year_ from **Marshall Colleg
 
 
 I was born and raised in **San Francisco, CA**.
-![Me in San Francisco](https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/43390357_253966275268230_5905271204842037320_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=106&_nc_ohc=RvCzL9HePa4AX_e3J72&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MTkwNDk5MzkwNDAwNjM1Mjg2OA%3D%3D.2-ccb7-5&oh=00_AT-DXsk-_oss6om_xPem9603jKQ0QtxDbq-usSzd-1t8ew&oe=633DE075&_nc_sid=30a2ef)
+![Me in San Francisco](https://i.ibb.co/4mvnJ60/68747470733a2f2f73636f6e74656e742d6c6178332d322e63646e696e7374616772616d2e636f6d2f762f7435312e323838.jpg)
 
 In my free time, I like to play games like _Valorant_ and _League of Legends_ with friends. My favorite champion in League of Legends is Veigar because he's short like me. 
 
