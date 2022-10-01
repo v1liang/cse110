@@ -1,4 +1,8 @@
 # Introduction
+This website has two main sections:
+* [About me as a person](https://github.com/v1liang/cse110/blob/main/index.md#as-a-person)
+* [About me as a programmer](https://github.com/v1liang/cse110/edit/main/index.md#as-a-programmer)
+
 ## As a person...
 Hello! My name is Vincent and I am currently a _4th year_ from **Marshall College** and am majoring in __Math-Computer Science__. 
 
